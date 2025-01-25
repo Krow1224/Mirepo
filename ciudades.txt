@@ -2,3 +2,6 @@ Notthingham
 Cali
 París
 Londres
+Madrid
+Roma
+Berlín
